@@ -1,0 +1,4 @@
+public function testIndexOk()
+{
+    $this->visit(':url:')->see('some text');
+}

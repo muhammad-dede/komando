@@ -1,0 +1,5 @@
+public function testDestroyOk()
+{
+    $id = 1;
+    $this->delete(":url:")->assertResponseStatus(302);
+}

@@ -1,0 +1,51 @@
+version: '3'
+services:
+ komando-trn:
+  image: mfrizal/nginx-php56:komando-newrelic
+  container_name: komando-trn
+  working_dir: /var/www/komando
+  restart: always
+  environment:
+   - VIRTUAL_HOST=trn-komando.pln.co.id
+  ports:
+   - "9001:80"
+   - "9443:443"
+  volumes:
+   - ".:/var/www/komando"
+   #- "/mnt/nfs/var/nfs/app/:/var/www/komando/storage/app"
+   - "./nginx/sites-available:/etc/nginx/sites-available"
+   - "./nginx/nginx.conf:/etc/nginx/nginx.conf"
+   - "./nginx/www.conf:/etc/php/5.6/fpm/pool.d/www.conf"
+   - "./nginx/ssl:/etc/nginx/ssl"
+   - "./nginx/log:/var/log/nginx"
+   - "./nginx/php.ini:/etc/php/5.6/fpm/php.ini"
+   - "/etc/hosts:/etc/hosts"
+   #- "./newrelic.ini:/etc/php/5.6/mods-available/newrelic.ini"
+   #- "/run/dbus/system_bus_socket:/run/dbus/system_bus_socket:ro"
+  privileged: true
+
+ redis-trn:
+  image: redis
+  container_name: redis-trn
+  restart: always
+  ports:
+   - "6390:6379"
+
+ db-komando-trn:
+#  image: oracleinanutshell/oracle-xe-11g:latest
+  image: mfrizal/oracle-xe:komando-v.2
+  container_name: db_komando_trn
+  restart: always
+  ports:
+   - '1522:1521'
+   - '5500:5500'
+   - '8080:8080'
+
+ fake-smtp:
+  image: ghusta/fakesmtp:2.0
+  container_name: fake-smtp-trn
+  restart: always
+  ports:
+   - '2525:25'
+  volumes:
+   - "./storage/fakemail:/var/mail"

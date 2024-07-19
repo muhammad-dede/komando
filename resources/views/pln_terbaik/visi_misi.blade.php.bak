@@ -1,0 +1,108 @@
+<div class="row">
+    <div class="col-md-12">
+        <h3 style="color: #19a2ba;">I.
+            VISI, MISI PLN DAN
+            TATA NILAI PERUSAHAAN</h3>
+    </div>
+</div>
+<div class="row m-t-10" style="border-top: solid 2px #19a2ba;">
+    <div class="col-md-12">
+        <h3 style="color: #19a2ba; margin-top: 20px;">VISI</h3>
+        <p style="font-size: 20px;">
+            “Diakui sebagai Perusahaan Kelas Dunia yang Bertumbuh-kembang, Unggul, dan Terpercaya dengan Bertumpu pada
+            Potensi Insani”
+        </p>
+    </div>
+</div>
+<div class="row m-t-10">
+    <div class="col-md-6">
+        <p>
+            <b>Kelas Dunia</b>
+            <br>
+            Perusahaan mampu memberikan
+            pelayanan dengan standar kualitas
+            pelayanan kelas dunia, memiliki cakrawala
+            pemikiran yang mutakhir, terdepan
+            dalam pemanfaatan teknologi, haus akan
+            kesempurnaan kerja dan perilaku, serta
+            merupakan perusahaan idaman bagi para
+            pencari kerja.
+        </p>
+        <p>
+            <b>Tumbuh Kembang</b>
+            <br>
+            Perusahaan mampu mengantisipasi
+            berbagai peluang dan tantangan usaha,
+            serta konsisten dalam pengembangan
+            standar kerja.
+        </p>
+        <p>
+            <b>Unggul</b>
+            <br>
+            Perusahaan menjadi yang terbaik,
+            terkemuka dan mutakhir dalam
+            bisnis kelistrikan, fokus dalam usaha
+            mengoptimalkan potensi insani, serta
+            mampu meningkatkan kualitas input,
+            proses dan output produk dan jasa
+            pelayanan secara berkesinambungan.
+        </p>
+    </div>
+    <div class="col-md-6">
+        <p>
+            <b>Terpercaya</b>
+            <br>
+            Perusahaan mampu memegang teguh
+            etika bisnis, konsisten memenuhi standar
+            layanan yang dijanjikan, serta menjadi
+            perusahaan favorit para pihak yang
+            berkepentingan.
+        </p>
+        <p>
+            <b>Potensi Insani</b>
+            <br>
+            Perusahaan mampu mengembangkan
+            insan yang kompeten, profesional, dan
+            berpengalaman serta memenuhi standar
+            etika dan kualitas.
+        </p>
+    </div>
+</div>
+
+<div class="row m-t-20">
+    <div class="col-md-12">
+        <h3 style="color: #19a2ba;">MISI</h3>
+        <p>
+            Sesuai dengan Anggaran Dasar <b>PT PLN (Persero)</b> maka ditetapkan <b>Misi Perusahaan</b>
+            sebagai berikut :
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <ul style="list-style-image: url('{{asset('assets/images/bullet.png')}}');">
+            <li style="margin-top: 10px;">
+                Menjalankan bisnis kelistrikan dan bidang lain yang terkait, berorientasi pada
+                kepuasan pelanggan, anggota perusahaan dan pemegang saham.
+            </li>
+            <li style="margin-top: 10px;">
+                Menjadikan tenaga listrik sebagai media untuk meningkatkan kualitas kehidupan
+                masyarakat.
+            </li>
+            <li style="margin-top: 10px;">
+                Mengupayakan agar tenaga listrik menjadi pendorong kegiatan ekonomi.
+            </li>
+            <li style="margin-top: 10px;">
+                Menjalankan kegiatan usaha yang berwawasan lingkungan.
+            </li>
+        </ul>
+    </div>
+
+</div>
+
+<div class="row m-t-20 m-b-20">
+    <div class="col-md-12" align="center">
+        <img class="card-img-top img-fluid" src="{{asset('assets/images/pic_visi_misi.png')}}" alt="Tower"
+             align="center" width="800">
+    </div>
+</div>

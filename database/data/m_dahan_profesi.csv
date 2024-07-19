@@ -1,0 +1,25 @@
+﻿id;pohon_bisnis_id;pohon_profesi_id;kode;description;status
+1;1;1;1.1.1;Energi Primer;ACTV
+2;1;1;1.1.2;Pembangkit;ACTV
+3;1;2;1.2.1;Operasi Sistem;ACTV
+4;1;2;1.2.2;Transmisi;ACTV
+5;1;3;1.3.1;Distribusi;ACTV
+6;1;4;1.4.1;Niaga dan Manajemen Pelanggan;ACTV
+7;2;5;2.1.1;Produksi Peralatan Ketenagalistrikan;ACTV
+8;2;6;2.2.1;K2 , K3 , Keamanan dan Lingkungan;ACTV
+9;2;7;2.3.1;Enjiniring dan Konstruksi Sipil;ACTV
+10;2;7;2.3.2;Enjiniring dan Konstruksi Mekanikal;ACTV
+11;2;7;2.3.3;Enjiniring dan Konstruksi Elektrikal;ACTV
+12;2;7;2.3.4;Perijinan, Pertanahan dan ROW;ACTV
+13;2;7;2.3.5;Manajemen Proyek;ACTV
+14;2;7;2.3.6;Enjiniring Penunjang;ACTV
+15;2;8;2.4.1;Penelitian dan Pengembangan;ACTV
+16;2;9;2.5.1;Pembelajaran;ACTV
+17;2;10;2.6.1;Sertifikasi;ACTV
+18;3;11;3.1.1;Supply Chain Management;ACTV
+19;3;12;3.2.1;Regulatory and Compliance;ACTV
+20;3;13;3.3.1;Teknologi Informasi;ACTV
+21;3;14;3.4.1;SDM;ACTV
+22;3;15;3.5.1;Keuangan;ACTV
+23;3;16;3.6.1;Komunikasi, CSR Dan Pengelolaan Kantor;ACTV
+24;3;17;3.7.1;Manajemen Perusahaan;ACTV

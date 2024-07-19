@@ -1,0 +1,85 @@
+﻿id;pohon_bisnis_id;pohon_profesi_id;dahan_profesi_id;kode;description;stream_bussiness_pu_id;stream_bussiness_npu_id;status
+1;1;1;1;KIT 1.1.1.1;Perencanaan Energi;4;11;ACTV
+2;1;1;1;KIT 1.1.1.2;Manajemen Energi;4;11;ACTV
+3;1;1;2;KIT 1.1.2.1;Perencanaan Pembangkitan;4;12;ACTV
+4;1;1;2;KIT 1.1.2.2;Enjiniring Pembangkitan;4;12;ACTV
+5;1;1;2;KIT 1.1.2.3;Operasi Pembangkitan;4;12;ACTV
+6;1;1;2;KIT 1.1.2.4;Pemeliharaan Pembangkitan;4;12;ACTV
+7;1;1;2;KIT 1.1.2.5;Manajemen Pembangkitan;4;12;ACTV
+8;1;2;3;TRS 1.2.1.1;Perencanaan Sistem Tenaga;4;12;ACTV
+9;1;2;3;TRS 1.2.1.2;Operasi Sistem Tenaga;4;12;ACTV
+10;1;2;3;TRS 1.2.1.3;Transaksi Energi Listrik;4;12;ACTV
+11;1;2;3;TRS 1.2.1.4;SCADA, Telekomunikasi dan Proteksi Sistem;4;12;ACTV
+12;1;2;4;TRS 1.2.2.1;Perencanaan Transmisi;4;12;ACTV
+13;1;2;4;TRS 1.2.2.2;Pemeliharaan Transmisi;4;12;ACTV
+14;1;2;4;TRS 1.2.2.3;Manajemen Transmisi;4;12;ACTV
+15;1;3;5;DIS 1.3.1.1;Perencanaan Distribusi;5;12;ACTV
+16;1;3;5;DIS 1.3.1.2;Enjiniring Distribusi;5;12;ACTV
+17;1;3;5;DIS 1.3.1.3;Operasi Sistem Distribusi;5;12;ACTV
+18;1;3;5;DIS 1.3.1.4;Pemeliharaan Distribusi;5;12;ACTV
+19;1;3;5;DIS 1.3.1.5;Manajemen Distribusi;5;12;ACTV
+20;1;4;6;NMP 1.4.1.1;Administrasi Niaga;5;7;ACTV
+21;1;4;6;NMP 1.4.1.2;Pemasaran;5;7;ACTV
+22;1;4;6;NMP 1.4.1.3;Pelayanan Pelanggan;5;7;ACTV
+23;1;4;6;NMP 1.4.1.4;Revenue Assurance;5;7;ACTV
+24;1;4;6;NMP 1.4.1.5;Manajemen Niaga;5;7;ACTV
+25;2;5;7;PPK 2.1.1.1;Desain Produk Peralatan;1;1;ACTV
+26;2;5;7;PPK 2.1.1.2;Manajemen Produksi dan Rekondisi Peralatan;1;1;ACTV
+27;2;6;8;KKL 2.2.1.1;K2 dan K3;;3;ACTV
+28;2;6;8;KKL 2.2.1.2;Keamanan;;3;ACTV
+29;2;6;8;KKL 2.2.1.3;Lingkungan;;3;ACTV
+30;2;7;9;MEK 2.3.1.1;Enjiniring Sipil;1;1;ACTV
+31;2;7;9;MEK 2.3.1.2;Konstruksi Sipil;1;1;ACTV
+32;2;7;10;MEK 2.3.2.1;Enjiniring Mekanikal;1;1;ACTV
+33;2;7;10;MEK 2.3.2.2;Konstruksi Mekanikal;1;1;ACTV
+34;2;7;11;MEK 2.3.3.1;Enjiniring Elektrikal;1;1;ACTV
+35;2;7;11;MEK 2.3.3.2;Konstruksi Elektrikal;1;1;ACTV
+36;2;7;12;MEK 2.3.4.1;Perijinan, Pertanahan dan ROW;1;1;ACTV
+37;2;7;13;MEK 2.3.5.1;Manajemen Proyek;1;1;ACTV
+38;2;7;14;MEK 2.3.6.1;Enjiniring Lingkungan Hidup;1;1;ACTV
+39;2;7;14;MEK 2.3.6.2;Enjiniring Geodesi;1;1;ACTV
+40;2;7;14;MEK 2.3.6.3;Enjiniring Ilmu Kebumian;1;1;ACTV
+41;2;7;14;MEK 2.3.6.4;Analisis Finansial;1;1;ACTV
+42;2;8;15;LIB 2.4.1.1;Litbang Pembangkitan;2;2;ACTV
+43;2;8;15;LIB 2.4.1.2;Litbang Transmisi dan Distribusi;2;2;ACTV
+44;2;8;15;LIB 2.4.1.3;Litbang Penunjang;2;2;ACTV
+45;2;8;15;LIB 2.4.1.4;Manajemen Litbang;2;2;ACTV
+46;2;9;16;PBR 2.5.1.1;Instruktur;2;2;ACTV
+47;2;9;16;PBR 2.5.1.2;Pengembangan Pembelajaran;2;2;ACTV
+48;2;9;16;PBR 2.5.1.3;Manajemen Pembelajaran;2;2;ACTV
+49;2;9;16;PBR 2.5.1.4;Asesor Soft Competency;2;2;ACTV
+50;2;9;16;PBR 2.5.1.5;Manajemen Asesmen;2;2;ACTV
+51;2;9;16;PBR 2.5.1.6;Konsultan Sistem Manajemen;2;2;ACTV
+52;2;9;16;PBR 2.5.1.7;Manajemen Museum;2;2;ACTV
+53;2;9;16;PBR 2.5.1.8;Asesor Kompetensi;2;2;ACTV
+54;2;9;16;PBR 2.5.1.9;Sertifikasi Kompetensi;2;2;ACTV
+55;2;10;17;SER 2.6.1.1;Sertifikasi Sistem Instalasi;1;1;ACTV
+56;2;10;17;SER 2.6.1.2;Sertifikasi Produk dan Sistem Manajemen;1;1;ACTV
+57;2;10;17;SER 2.6.1.3;Pengujian dan Kalibrasi;1;1;ACTV
+58;3;11;18;SCM 3.1.1.1;Manajemen Supply Chain;;11;ACTV
+59;3;11;18;SCM 3.1.1.2;Pengadaan;;11;ACTV
+60;3;11;18;SCM 3.1.1.3;Logistik;;11;ACTV
+61;3;12;19;RNC 3.2.1.1;Hukum;;3;ACTV
+62;3;12;19;RNC 3.2.1.2;Auditor;;3;ACTV
+63;3;12;19;RNC 3.2.1.3;Manajemen Risiko;;3;ACTV
+64;3;12;19;RNC 3.2.1.4;Kepatuhan;;3;ACTV
+65;3;13;20;TIF 3.3.1.1;Teknologi Informasi;;14;ACTV
+66;3;14;21;SDM 3.4.1.1;Pengembangan Sistem Manajemen SDM dan Organisasi;;10;ACTV
+67;3;14;21;SDM 3.4.1.2;Manajemen Talenta;;10;ACTV
+68;3;14;21;SDM 3.4.1.3;Administrasi SDM;;10;ACTV
+69;3;14;21;SDM 3.4.1.4;Hubungan Industrial;;10;ACTV
+70;3;15;22;KEU 3.5.1.1;Anggaran;;10;ACTV
+71;3;15;22;KEU 3.5.1.2;Akuntansi;;10;ACTV
+72;3;15;22;KEU 3.5.1.3;Pajak dan Asuransi;;10;ACTV
+73;3;15;22;KEU 3.5.1.4;Manajemen Keuangan;;10;ACTV
+74;3;15;22;KEU 3.5.1.5;Corporate Finance;;10;ACTV
+75;3;16;23;KCP 3.6.1.1;Komunikasi;;10;ACTV
+76;3;16;23;KCP 3.6.1.2;Corporate Social Responsibility (CSR);;10;ACTV
+77;3;16;23;KCP 3.6.1.3;Manajemen Stakeholder;;10;ACTV
+78;3;16;23;KCP 3.6.1.4;Manajemen Kesekretariatan dan Kearsipan;;10;ACTV
+79;3;16;23;KCP 3.6.1.5;Manajemen Pelayanan dan Pengelolaan Kantor;;10;ACTV
+80;3;17;24;MPS 3.7.1.1;Manajemen Mutu;;9;ACTV
+81;3;17;24;MPS 3.7.1.2;Manajemen Kinerja;;9;ACTV
+82;3;17;24;MPS 3.7.1.3;Manajemen Aset Properti;;9;ACTV
+83;3;17;24;MPS 3.7.1.4;Manajemen Strategis;;9;ACTV
+84;3;17;24;MPS 3.7.1.5;Manajemen Perubahan;;9;ACTV

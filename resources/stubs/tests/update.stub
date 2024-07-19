@@ -1,0 +1,5 @@
+public function testUpdateOk()
+{
+    $data = [];
+    $this->put(":url:", $data)->assertResponseStatus(302);
+}

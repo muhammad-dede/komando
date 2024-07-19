@@ -1,0 +1,191 @@
+stages:
+  - build
+  - test
+  - deploy
+  - deploy-dev-javan
+  - deploy-javan
+  - pre-deployment
+
+build:
+  stage: build
+  tags:
+    - php56
+  variables:
+    GIT_SSL_NO_VERIFY: "1"
+  script:
+    - pwd
+    - cp .env.example .env
+    - chmod 777 storage -R
+    - chmod 777 public -R
+    - chmod 777 vendor/phpunit -R
+    - php artisan key:generate
+  artifacts:
+    paths:
+      - .env
+      - vendor/phpunit
+  except:
+    - dev
+    - /^feature\/.*$/
+    - /^issue\/.*$/
+    - master-javan
+
+sonarqube-check:
+  stage: test
+  image: 
+    name: sonarsource/sonar-scanner-cli:latest
+    entrypoint: [""]
+  variables:
+    SONAR_USER_HOME: "${CI_PROJECT_DIR}/.sonar"  # Defines the location of the analysis task cache
+    #GIT_DEPTH: "0"  # Tells git to fetch all the branches of the project, required by the analysis task
+    GIT_SSL_NO_VERIFY: "1"
+  cache:
+    key: "${CI_JOB_NAME}"
+    paths:
+      - .sonar/cache
+  script: 
+    - pwd
+    - ls
+    - sonar-scanner
+  allow_failure: true
+  # only:
+  #   - master # or the name of your main branch
+
+unit-test:
+  stage: test
+  tags:
+    - php56
+  variables:
+    GIT_SSL_NO_VERIFY: "1"
+  script:
+    #        - echo "Testing"
+    - pwd
+    - php artisan migrate
+#    - php artisan app:refresh-db-view
+    - vendor/phpunit/phpunit/phpunit
+  except:
+    - dev
+    - /^feature\/.*$/
+    - /^issue\/.*$/
+    - master-javan
+
+
+#deploy_dev:
+#  stage: deploy
+#  tags:
+#    - php56
+#  variables:
+#    GIT_SSL_NO_VERIFY: "1"
+#  script:
+#    #    - echo "Deploy to dev server"
+#    - ssh administrator@10.1.18.230 . .deploy_budaya_dev
+#  environment:
+#    name: development
+#    url: http://dev.budaya.pln.co.id
+#  only:
+#    - master
+
+deploy_trn:
+  stage: deploy
+  tags:
+    - php56
+  variables:
+    GIT_SSL_NO_VERIFY: "1"
+  script:
+    #    - echo "Deploy to training server"
+    - ssh plnpusat@10.1.18.154 . .deploy_komando_trn
+  environment:
+    name: training
+    url: https://trn-komando.pln.co.id
+  only:
+    - master
+    - staging-trn
+
+deploy_prod_1:
+  stage: deploy
+  tags:
+    - php56
+  variables:
+    GIT_SSL_NO_VERIFY: "1"
+  script:
+    #        - echo "Deploy to production server"
+    - ssh plnpusat@10.1.18.126 . .deploy_budaya_prod
+  environment:
+    name: producton_1
+    url: http://budaya.pln.co.id
+  #when: manual
+  only:
+    - master
+
+deploy_prod_2:
+  stage: deploy
+  tags:
+    - php56
+  variables:
+    GIT_SSL_NO_VERIFY: "1"
+  script:
+    #        - echo "Deploy to production server"
+    - ssh plnpusat@10.1.18.194 . .deploy_budaya_prod
+  environment:
+    name: producton_2
+    url: http://budaya.pln.co.id
+  #when: manual
+  only:
+    - master
+
+deploy_prod_3:
+  stage: deploy
+  tags:
+    - php56
+  variables:
+    GIT_SSL_NO_VERIFY: "1"
+  script:
+    #        - echo "Deploy to production server"
+    - ssh plnpusat@10.1.18.154 . .deploy_budaya_prod
+  environment:
+    name: producton_3
+    url: http://budaya.pln.co.id
+  #when: manual
+  only:
+    - master
+
+deploy_prod_4:
+  stage: deploy
+  tags:
+    - php56
+  variables:
+    GIT_SSL_NO_VERIFY: "1"
+  script:
+    #        - echo "Deploy to production server"
+    - ssh plnpusat@10.1.85.216 . .deploy_budaya_prod
+  environment:
+    name: producton_4
+    url: http://budaya.pln.co.id
+  #when: manual
+  only:
+    - master
+
+deploy_dev_javan:
+  only:
+    - dev
+  tags:
+    - cloud
+  stage: deploy-dev-javan
+  image: javanlabs/ssh-client:latest
+  environment:
+    name: staging_javan
+    url: http://dev-komando.javan.co.id/
+  script:
+    - ssh root@10.10.10.121 "cd /var/www/komando-dev && git pull origin dev && docker exec komando-locl-dev bash -c 'cd /var/www/komando && php artisan migrate && php artisan app:refresh-db-view && php artisan db:seed --class=LiquidPermissionSeeder'"
+
+deploy_staging_javan:
+  only:
+    - master-javan
+  tags:
+    - cloud
+  stage: deploy-javan
+  image: javanlabs/ssh-client:latest
+  environment:
+    name: staging_javan
+    url: http://dev-komando.javan.co.id/
+  script:
+    - ssh root@10.10.10.121 "cd /var/www/komando && git pull origin master-javan && docker exec komando-locl bash -c 'cd /var/www/komando && php artisan migrate && php artisan app:refresh-db-view && php artisan db:seed --class=LiquidPermissionSeeder'"

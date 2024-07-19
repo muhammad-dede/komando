@@ -1,0 +1,5 @@
+public function testShowOk()
+{
+    //$id = 1;
+    $this->visit(":url:")->see("show");
+}

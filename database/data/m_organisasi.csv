@@ -1,0 +1,284 @@
+﻿id;description;status
+1;Kantor Pusat -  Divisi Pusat Keunggulan Niaga dan Pelayanan;INAC
+2;Kantor Pusat -  Divisi Tarif dan Subsidi;INAC
+3;Kantor Pusat - Direktorat Bisnis Regional;INAC
+4;Kantor Pusat - Direktorat Bisnis Regional (Sulmapana);INAC
+5;Kantor Pusat - Direktorat Bisnis Regional (Sumkal);INAC
+6;Kantor Pusat - Direktorat Bisnis Regional Jamali;INAC
+7;Kantor Pusat - Direktorat Energi Primer;INAC
+8;Kantor Pusat - Direktorat Keuangan;INAC
+9;Kantor Pusat - Direktorat Manajemen Sumber Daya Manusia;INAC
+10;Kantor Pusat - Direktorat Mega Proyek;INAC
+11;Kantor Pusat - Direktorat Niaga dan Manajemen Pelanggan;INAC
+12;Kantor Pusat - Direktorat Perencanaan Korporat;INAC
+13;Kantor Pusat - Divisi  Sistem dan Teknologi Informasi;INAC
+14;Kantor Pusat - Divisi Akuntansi;INAC
+15;Kantor Pusat - Divisi Anggaran;INAC
+16;Kantor Pusat - Divisi Batubara;INAC
+17;Kantor Pusat - Divisi Distribusi Regional;INAC
+18;Kantor Pusat - Divisi Distribusi Regional (Jamali);INAC
+19;Kantor Pusat - Divisi Distribusi Regional (Sumkal);INAC
+20;Kantor Pusat - Divisi Enjiniring dan Teknologi;INAC
+21;Kantor Pusat - Divisi Gas dan BBM;INAC
+22;Kantor Pusat - Divisi Independen Power Producer;INAC
+23;Kantor Pusat - Divisi Infrastruktur Manajemen Risiko;INAC
+24;Kantor Pusat - Divisi Keselamatan dan Kesehatan Kerja (K3), Keamanan dan Lingkungan;INAC
+25;Kantor Pusat - Divisi Komunikasi Korporat dan TJSL;INAC
+26;Kantor Pusat - Divisi Konstruksi Jawa, Madura, Bali, Maluku, Papua dan Nusa Tenggara;INAC
+27;Kantor Pusat - Divisi Konstruksi Sumatera, Kalimantan dan Sulawesi;INAC
+28;Kantor Pusat - Divisi Kontrak dan Legal Business Partner;INAC
+29;Kantor Pusat - Divisi Legal, Pengamanan dan Pemeliharaan Aset Properti;INAC
+30;Kantor Pusat - Divisi Manajemen Keuangan Aset;INAC
+31;Kantor Pusat - Divisi Manajemen Nilai Aset;INAC
+32;Kantor Pusat - Divisi Manajemen Perubahan;INAC
+33;Kantor Pusat - Divisi Manajemen Portofolio;INAC
+34;Kantor Pusat - Divisi Manajemen Rantai Pasok;INAC
+35;Kantor Pusat - Divisi Manajemen Risiko Infrastruktur;INAC
+36;Kantor Pusat - Divisi Manajemen Risiko Operasi dan Proyek;INAC
+37;Kantor Pusat - Divisi Manajemen Risiko Regional;INAC
+38;Kantor Pusat - Divisi Manajemen Risiko Strategis dan Keuangan;INAC
+39;Kantor Pusat - Divisi Manajemen Talenta;INAC
+40;Kantor Pusat - Divisi Pelayanan Human Capital;INAC
+41;Kantor Pusat - Divisi Pelayanan Pelanggan Korporat dan Institusi Besar;INAC
+42;Kantor Pusat - Divisi Pelayanan Pelanggan Retail;INAC
+43;Kantor Pusat - Divisi Pemasaran dan Pengembangan Produk;INAC
+44;Kantor Pusat - Divisi Pembangkitan dan EBT;INAC
+45;Kantor Pusat - Divisi Pembangkitan dan EBT Regional;INAC
+46;Kantor Pusat - Divisi Pembangkitan dan EBT Regional (Jamali);INAC
+47;Kantor Pusat - Divisi Pembangkitan dan EBT Regional (Sulmapana);INAC
+48;Kantor Pusat - Divisi Pembangkitan dan EBT Regional (Sumkal);INAC
+49;Kantor Pusat - Divisi Pengadaan EPC dan IPP EBT;INAC
+50;Kantor Pusat - Divisi Pengembangan Talenta;INAC
+51;Kantor Pusat - Divisi Perbendaharaan;INAC
+52;Kantor Pusat - Divisi Perencanaan dan Enjiniring EBT;INAC
+53;Kantor Pusat - Divisi Perencanaan dan Enjiniring Konstruksi;INAC
+54;Kantor Pusat - Divisi Perencanaan dan Pengendalian Regional ;INAC
+55;Kantor Pusat - Divisi Perencanaan dan Pengendalian Regional (Jamali);INAC
+56;Kantor Pusat - Divisi Perencanaan dan Pengendalian Regional (Sulmapana);INAC
+57;Kantor Pusat - Divisi Perencanaan dan Pengendalian Regional (Sumkal);INAC
+58;Kantor Pusat - Divisi Perencanaan Korporat;INAC
+59;Kantor Pusat - Divisi Perencanaan Sistem Ketenagalistrikan;INAC
+60;Kantor Pusat - Divisi Project Management Office;INAC
+61;Kantor Pusat - Divisi Pusat Kebijakan;INAC
+62;Kantor Pusat - Divisi Regulasi dan Bantuan Hukum;INAC
+63;Kantor Pusat - Divisi Retail Regional;INAC
+64;Kantor Pusat - Divisi Retail Regional ;INAC
+65;Kantor Pusat - Divisi Retail Regional (Jamali);INAC
+66;Kantor Pusat - Divisi Retail Regional (Sumkal);INAC
+67;Kantor Pusat - Divisi Sistem dan Teknologi Informasi;INAC
+68;Kantor Pusat - Divisi Strategi Human Capital;INAC
+69;Kantor Pusat - Divisi Strategi Human Capital ;INAC
+70;Kantor Pusat - Divisi Transmisi dan Distribusi;INAC
+71;Kantor Pusat - Divisi Transmisi Regional;INAC
+72;Kantor Pusat - Divisi Transmisi Regional (Jamali);INAC
+73;Kantor Pusat - Divisi Transmisi Regional (Sulmapana);INAC
+74;Kantor Pusat - Divisi Transmisi Regional (Sumkal);INAC
+75;Kantor Pusat - Divisi Umum;INAC
+76;Kantor Pusat - Inspektorat Metodologi, Jaminan Kualitas, dan Pelaporan;INAC
+77;Kantor Pusat - Keuangan Korporat;INAC
+78;Kantor Pusat - Manajemen Digital;INAC
+79;Kantor Pusat - Manajemen Regulator;INAC
+80;Kantor Pusat - Satuan Pengawas Intern;INAC
+81;Kantor Pusat - Satuan Pengawasan Intern;INAC
+82;Kantor Pusat - Satuan Pusat Keunggulan;INAC
+83;Kantor Pusat - Sub Direktorat Hukum Korporat;INAC
+84;Kantor Pusat - Sub Direktorat Manajemen Aset;INAC
+85;Kantor Pusat - Sub Direktorat Manajemen Risiko;INAC
+86;Kantor Pusat - Wakil Direktur Utama;INAC
+87;PLN Kantor Pusat - Direktorat Perencanaan;INAC
+88;PLN Kantor Pusat - Divisi Pengembangan Talenta;INAC
+89;PLN Kantor Pusat - Divisi Perencanaan Korporat;INAC
+90;PLN Kantor Pusat - Divisi Perencanaan Sistem Ketenagalistrikan;INAC
+91;PLN Kantor Pusat - Divisi Perencanaan Strategi Korporat;INAC
+92;Pusat Manajemen Proyek;INAC
+93;Pusat Pemeliharaan Ketenagalistrikan;INAC
+94;Pusat Pendidikan dan Pelatihan;INAC
+95;Pusat Penelitian dan Pengembangan Ketenagalistrikan;INAC
+96;Pusat Sertifikasi;INAC
+97;Sekretariat Perusahaan;INAC
+98;Unit Induk Distribusi;INAC
+99;Unit Induk Pembangkit Tanjung Jati B;INAC
+100;Unit Induk Pembangkitan;INAC
+101;Unit Induk Pembangkitan dan Penyaluran;INAC
+102;Unit Induk Pembangunan;INAC
+103;Unit Induk Penyaluran Dan Pusat Pengatur Beban (UIP3B) Sumatera;INAC
+104;Unit Induk Pusat Pengatur Beban (UIP2B);INAC
+105;Unit Induk Transmisi;INAC
+106;Unit Induk Transmisi (UIT);INAC
+107;Unit Induk Wilayah;INAC
+108;Unit Pelaksana Assesment Center;INAC
+109;Unit Pelaksana Manajemen Konstruksi;INAC
+110;Unit Pelaksana Pegatur Beban;INAC
+111;Unit Pelaksana Pegatur Beban (UP2B);INAC
+112;Unit Pelaksana Pelayanan Pelanggan;INAC
+113;Unit Pelaksana Pembangkitan;INAC
+114;Unit Pelaksana Pendidikan dan Pelatihan Pola 2;INAC
+115;Unit Pelaksana Pendidikan dan Pelatihan Pola I;INAC
+116;Unit Pelaksana Pengatur Beban (UP2B);INAC
+117;Unit Pelaksana Pengatur dan Penyalur Beban;INAC
+118;Unit Pelaksana Pengatur Distribusi;INAC
+119;Unit Pelaksana Pengendalian Pembangkitan;INAC
+120;Unit Pelaksana Penyaluran dan Pengatur Beban;INAC
+121;Unit Pelaksana Produksi dan Workshop;INAC
+122;Unit Pelaksana Proyek;INAC
+123;Unit Pelaksana Proyek Ketenagalistrikan;INAC
+124;Unit Pelaksana Sertifikasi;INAC
+125;Unit Pelaksana Transmisi;INAC
+126;Unit Pelaksana Transmisi ;INAC
+127;Unit Pelaksana Transmisi (UIT);INAC
+128;Unit Pembangkitan dan Penyaluran;INAC
+129;Kantor Pusat - Satuan Pusat Keunggulan;ACTV
+130;Kantor Pusat - Satuan Pusat Keunggulan;ACTV
+131;Kantor Pusat - Divisi Pembangkitan dan EBT;ACTV
+132;Kantor Pusat - Divisi Transmisi dan Distribusi;ACTV
+133;Kantor Pusat - Divisi Enjiniring dan Teknologi;ACTV
+134;Kantor Pusat - Satuan Pengawasan Intern;ACTV
+135;Kantor Pusat - Inspektorat Metodologi, Jaminan Kualitas, dan Pelaporan;ACTV
+136;Kantor Pusat - Inspektorat Audit Sumatera Kalimantan;ACTV
+137;Kantor Pusat - Inspektorat Audit Jawa, Madura dan Bali;ACTV
+138;Kantor Pusat - Inspektorat Audit Sulawesi, Maluku, Papua dan Nusa Tenggara;ACTV
+139;Kantor Pusat - Inspektorat Audit Kantor Pusat 1;ACTV
+140;Kantor Pusat - Inspektorat Audit Kantor Pusat 2;ACTV
+141;Kantor Pusat - Inspektorat Investigasi;ACTV
+142;Sekretariat Perusahaan;ACTV
+143;Kantor Pusat - Wakil Direktur Utama;ACTV
+144;Kantor Pusat - Divisi Transformasi Korporat dan CEO Office;ACTV
+145;Kantor Pusat - Divisi Komunikasi Korporat dan TJSL;ACTV
+146;Kantor Pusat - Divisi Manajemen Stakeholder dan BoD Support;ACTV
+147;Kantor Pusat - Manajemen Digital;ACTV
+148;Kantor Pusat - Direktorat Perencanaan Korporat dan Pengembangan Bisnis;ACTV
+149;Kantor Pusat - Divisi Perencanaan Korporat;ACTV
+150;Kantor Pusat - Divisi Manajemen Portofolio;ACTV
+151;Kantor Pusat - Divisi Pengendalian Kinerja Korporat;ACTV
+152;Kantor Pusat - Divisi Batu Bara;ACTV
+153;Kantor Pusat - Divisi Gas dan Bahan Bakar Minyak;ACTV
+154;Kantor Pusat - Satuan Manajemen Risiko;ACTV
+155;Kantor Pusat - Divisi Infrastruktur Manajemen Risiko;ACTV
+156;Kantor Pusat - Divisi Manajemen Risiko Operasi dan Proyek;ACTV
+157;Kantor Pusat - Divisi Manajemen Risiko Strategis dan Keuangan;ACTV
+158;Kantor Pusat - Divisi Manajemen Risiko Regional;ACTV
+159;Kantor Pusat - Divisi Pelayanan Pelanggan Retail;ACTV
+160;Kantor Pusat - Divisi Pelayanan Pelanggan Korporat dan Institusi Besar;ACTV
+161;Kantor Pusat - Divisi Pemasaran dan Pengembangan Produk;ACTV
+162;Kantor Pusat - Divisi Pusat Keunggulan Niaga dan Pelayanan Pelanggan;ACTV
+163;Kantor Pusat - Divisi Retail Regional Jawa, Madura dan Bali;ACTV
+164;Kantor Pusat - Divisi Retail Regional Sulawesi, Maluku, Papua dan Nusa Tenggara;ACTV
+165;Kantor Pusat - Divisi Retail Regional Sumatera Kalimantan;ACTV
+166;Kantor Pusat - Direktorat Manajemen Proyek dan Energi Baru Terbarukan;ACTV
+167;Kantor Pusat - Divisi Enjiniring dan Perencanaan Pengadaan;ACTV
+168;Kantor Pusat - Divisi Aneka Baru dan Terbarukan;ACTV
+169;Kantor Pusat - Divisi Panas Bumi;ACTV
+170;Kantor Pusat - Divisi BioEnergi;ACTV
+171;Kantor Pusat - Divisi Pengadaan Pembangkit dan Energi Baru Terbarukan;ACTV
+172;Kantor Pusat - Divisi Pengadaan Transmisi & Gardu Induk, dan Material Terpusat;ACTV
+173;Kantor Pusat - Divisi Manajemen Rantai Pasok;ACTV
+174;Kantor Pusat - Divisi Konstruksi Sumatera, Kalimantan, dan Sulawesi;ACTV
+175;Kantor Pusat - Divisi Konstruksi Jawa, Madura, Bali, Maluku, Papua dan Nusa Tenggara;ACTV
+176;Kantor Pusat - Divisi Konstruksi Sumatera, Kalimantan dan Sulawesi;ACTV
+177;Kantor Pusat - Divisi Project Management Office;ACTV
+178;Kantor Pusat - Divisi Strategi Human Capital;ACTV
+179;Kantor Pusat - Divisi Pengembangan Talenta;ACTV
+180;Kantor Pusat - Divisi Pelayanan Human Capital;ACTV
+181;Kantor Pusat - Divisi Umum;ACTV
+182;Kantor Pusat - Divisi Keselamatan dan Kesehatan Kerja (K3), Keamanan dan Lingkungan;ACTV
+183;Kantor Pusat - Sub Direktorat Hukum Korporat;ACTV
+184;Kantor Pusat - Divisi Kontrak dan Legal Business Partner;ACTV
+185;Kantor Pusat - Divisi Bantuan Hukum;ACTV
+186;Kantor Pusat - Divisi Regulasi;ACTV
+187;Kantor Pusat - Divisi Kepatuhan;ACTV
+188;Kantor Pusat - Divisi Pusat Kebijakan;ACTV
+189;Kantor Pusat - Direktorat Keuangan;ACTV
+190;Kantor Pusat - Divisi Keuangan Korporat;ACTV
+191;Kantor Pusat - Divisi Anggaran;ACTV
+192;Kantor Pusat - Divisi Perbendaharaan;ACTV
+193;Kantor Pusat - Divisi Akuntansi;ACTV
+194;Kantor Pusat - Divisi Sistem dan Teknologi Informasi;ACTV
+195;Kantor Pusat - Sub Direktorat Manajemen Aset;ACTV
+196;Kantor Pusat - Divisi Legal, Pengamanan dan Pemeliharaan Aset Properti;ACTV
+197;Kantor Pusat - Divisi Tarif dan Subsidi;ACTV
+198;Kantor Pusat - Direktorat Manajemen Pembangkitan;ACTV
+199;Kantor Pusat - Divisi Independent Power Producer;ACTV
+200;Kantor Pusat - Divisi Pembangkitan dan EBT Regional Jawa, Madura dan Bali;ACTV
+201;Kantor Pusat - Divisi Pembangkitan dan EBT Regional Sumatera Kalimantan;ACTV
+202;Kantor Pusat - Divisi Pembangkitan dan EBT Regional Sulawesi, Maluku, Papua dan Nuta Tenggara;ACTV
+203;Kantor Pusat - Direktorat Distribusi;ACTV
+204;Kantor Pusat - Divisi Distribusi Regional Jawa, Madura dan Bali;ACTV
+205;Kantor Pusat - Divisi Distribusi Regional Sumatera Kalimantan;ACTV
+206;Kantor Pusat - Divisi Distribusi Regional Sulawesi, Maluku, Papua dan Nusa Tenggara;ACTV
+207;Kantor Pusat - Direktorat Transmisi dan Perencanaan Sistem;ACTV
+208;Kantor Pusat - Divisi Perencanaan Sistem Ketenagalistrikan;ACTV
+209;Kantor Pusat - Divisi Perencanaan dan Pengendalian Regional Jawa, Madura dan Bali;ACTV
+210;Kantor Pusat - Divisi Perencanaan dan Pengendalian Regional Sulawesi, Maluku, papua dan Nusa Tenggara;ACTV
+211;Kantor Pusat - Divisi Perencanaan dan Pengendalian Regional Sumatera Kalimantan;ACTV
+212;Kantor Pusat - Divisi Transmisi Regional Jawa, Madura dan Bali;ACTV
+213;Kantor Pusat - Divisi Transmisi Regional Sulawesi, Maluku, Papua dan Nusa Tenggara;ACTV
+214;Kantor Pusat - Divisi Transmisi Regional Sumatera Kalimantan;ACTV
+215;Unit Induk Wilayah;ACTV
+216;UIW - Unit Pelaksana Pelanggan;ACTV
+217;UIW - Unit Pelaksana Pengatur Distribusi;ACTV
+218;UIW - Unit Pelaksana Penyaluran dan Pengatur Beban;ACTV
+219;UIW - Unit Pelaksana Pembangkitan;ACTV
+220;UIW - Unit Pelaksana Proyek Ketenagalistrikan;ACTV
+221;UIW - Unit Layanan Pelanggan;ACTV
+222;UIW - Unit Layanan Transmisi dan Gardu Induk;ACTV
+223;UIW - Unit Layanan Pusat Listrik (PLTD);ACTV
+224;UIW - Unit Layanan Pusat Listrik (ULPLTA);ACTV
+225;UIW - Unit Layanan Pusat Listrik (PLTP);ACTV
+226;UIW - Unit Layanan Pusat Listrik (PLTU);ACTV
+227;UIW - Unit Layanan Pusat Listrik (ULPLTMH/PLTS);ACTV
+228;Unit Induk Distribusi;ACTV
+229;UID - Unit Pelaksana Pelayanan Pelanggan;ACTV
+230;UID - Unit Pelaksana Pengatur Distribusi;ACTV
+231;UID - Unit Pelaksana Proyek Ketenagalistrikan;ACTV
+232;UID - Unit Layanan Pelanggan;ACTV
+233;Unit Induk Transmisi;ACTV
+234;UIT - Unit Pelaksana Transmisi;ACTV
+235;UIT - Unit Layanan Transmisi dan Gardu Induk;ACTV
+236;Unit Induk Pembangunan;ACTV
+237;UIP - Unit Pelaksana Proyek;ACTV
+238;Unit Induk Pembangkitan;ACTV
+239;UIK - Unit Pelaksana Pembangkitan;ACTV
+240;UIK - Unit Pelaksana Pengendalian Pembangkitan;ACTV
+241;UIK - Unit Pelaksana Pemeliharaan Pembangkitan;ACTV
+242;Unit Layanan Pusat Listrik (ULPLTA);ACTV
+243;UIK - Unit Layanan Pusat Listrik (PLTA);ACTV
+244;UIK - Unit Layanan Pusat Listrik (PLTD);ACTV
+245;UIK - Unit Layanan Pusat Listrik (PLTD/G);ACTV
+246;UIK - Unit Layanan Pusat Listrik (PLTG);ACTV
+247;UIK - Unit Layanan Pusat Listrik (PLTG/MG);ACTV
+248;UIK - Unit Layanan Pusat Listrik (PLTG/U);ACTV
+249;UIK - Unit Layanan Pusat Listrik (PLTMG);ACTV
+250;UIK - Unit Layanan Pusat Listrik (PLTP/A);ACTV
+251;UIK - Unit Layanan Pusat Listrik (PLTU);ACTV
+252;Unit Induk Pembangkitan Tanjung Jati B;ACTV
+253;Unit Induk Pusat Pengatur Beban (UIP2B);ACTV
+254;UIP2B - Unit Pelaksana Pengatur Beban (UP2B);ACTV
+255;Unit Induk Penyaluran Dan Pusat Pengatur Beban (UIP3B) Sumatera;ACTV
+256;UIP3BS - Unit Pelaksana Pengatur Beban;ACTV
+257;UIP3BS - Unit Pelaksana Transmisi;ACTV
+258;UIP3BS - Unit Layanan Transmisi dan Gardu Induk;ACTV
+259;Unit Induk Pembangkitan dan Penyaluran;ACTV
+260;UIKL - Unit Pelaksana Pembangkitan;ACTV
+261;UIKL - Unit Pelaksana Pengendalian Pembangkitan;ACTV
+262;UIKL - Unit Pelaksana Pengatur Beban (UP2B);ACTV
+263;UIKL - Unit Pelaksana Penyaluran dan Pengatur Beban (UP3B);ACTV
+264;UIKL - Unit Layanan Transmisi dan Gardu Induk;ACTV
+265;UIKL - Unit Layanan Pusat Listrik (PLTD);ACTV
+266;UIKL - Unit Layanan Pusat Listrik (ULPLTA/PLTA/D);ACTV
+267;UIKL - Unit Layanan Pusat Listrik (PLTMG);ACTV
+268;UIKL - Unit Layanan Pusat Listrik (ULPLTM);ACTV
+269;UIKL - Unit Layanan Pusat Listrik (ULPLTP);ACTV
+270;UIKL - Unit Layanan Pusat Listrik (ULPLTU);ACTV
+271;Unit Layanan Pusat Listrik (PLTG);ACTV
+272;Pusat Pendidikan dan Pelatihan;ACTV
+273;PUSDIKLAT - Unit Pelaksana Pendidikan dan Pelatihan Pola I;ACTV
+274;PUSDIKLAT - Unit Pelaksana Pendidikan dan Pelatihan Pola 2;ACTV
+275;PUSDIKLAT - Unit Pelaksana Assesment Center;ACTV
+276;PUSDIKLAT - Unit Pelaksana Sertifikasi;ACTV
+277;PUSDIKLAT - Unit Pelaksana Museum Listrik Energi Baru;ACTV
+278;Pusat Pemeliharaan Ketenagalistrikan;ACTV
+279;PUSHARLIS - Unit Pelaksana Produksi dan Workshop;ACTV
+280;Pusat Manajemen Proyek;ACTV
+281;PUSMANPRO - Unit Pelaksana Manajemen Konstruksi;ACTV
+282;Pusat Penelitian dan Pengembangan Ketenagalistrikan;ACTV
+283;Pusat Sertifikasi;ACTV

@@ -1,0 +1,171 @@
+<div class="row">
+    <div class="col-md-12">
+        <h3 style="color: #19a2ba;">TATA NILAI PERUSAHAAN</h3>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <p>
+            Tata Nilai <b>PLN</b> merupakan panduan bagi seluruh Insan <b>PLN</b>, dalam pola pikir, sikap, dan
+            perilaku sehari-hari dalam bekerja untuk memberikan kontribusi kepada Perusahaan
+            yang dirumuskan dalam belief, values, dan behavior di bawah ini:
+        </p>
+    </div>
+</div>
+
+<div align="center">
+    <a href="{{asset('assets/images/tata_nilai.png')}}" target="_blank"><img class="card-img-top img-fluid" src="{{asset('assets/images/tata_nilai.png')}}" alt="Tata Nilai" width="800" align="center"></a>
+    <small class="text-muted">* Klik pada gambar untuk memperbesar</small>
+</div>
+
+<div class="row m-t-20">
+    <div class="col-md-12">
+        <p>
+            <h4>1. BELIEF</h4>
+        </p>
+        <p>
+            <b style="color: #19a2ba;">T</b>umbuh b<b style="color: #19a2ba;">ER</b>kem<b style="color: #19a2ba;">BA</b>ng dengan <b style="color: #19a2ba;">I</b>ntegritas dan <b style="color: #19a2ba;">K</b>eunggulan (<b style="color: #19a2ba;">TERBAIK</b>)
+        </p>
+        <p>
+            Tumbuh berkembang dengan integritas dan keunggulan” adalah keyakinan dasar (basic
+            belief) yang berisi filosofi dasar bagi setiap Insan PLN bahwa kemajuan PLN disebabkan
+            oleh Insan PLN yang berintegritas dan senantiasa unggul dalam mengelola operasi serta
+            bisnisnya. Keyakinan dasar ini merupakan esensi Budaya Perusahaan yang melandasi
+            nilai-nilai dan perilaku setiap Insan PLN. “Tumbuh berkembang dengan integritas
+            dan keunggulan” menuntut setiap Insan PLN untuk memiliki nilai-nilai, yaitu: Sinergi,
+            Profesionalisme, dan Berkomitmen pada Pelanggan.
+        </p>
+    </div>
+</div>
+
+<div class="row m-t-20">
+    <div class="col-md-12">
+        <p>
+            <h4>2. VALUES</h4>
+        </p>
+    </div>
+</div>
+<div class="row m-t-10">
+    <div class="col-md-4">
+        <p>
+            <b style="color: #19a2ba;">Sinergi</b>
+            <br>
+            Bekerja sama dengan
+            produktif dengan seluruh
+            pihak terkait dilandasi
+            sikap saling menghargai,
+            dan menghormati.
+        </p>
+    </div>
+    <div class="col-md-4">
+        <p>
+            <b style="color: #19a2ba;">Profesionalisme</b>
+            <br>
+            Cerdas, tuntas, antusias
+            dan akurat dalam melihat
+            aspek bisnis untuk
+            memberikan nilai tambah
+            bagi Perusahaan dalam
+            mencapai kinerja terbaik
+            secara efektif dan efisien.
+        </p>
+    </div>
+    <div class="col-md-4">
+        <p>
+            <b style="color: #19a2ba;">Berkomitmen pada Pelanggan</b>
+            <br>
+            Komitmen memberikan
+            pengalaman terbaik (dari
+            sisi produk, layanan, dan
+            tarif) bagi pelanggan,
+            baik pelanggan internal
+            maupun pelanggan
+            eksternal.
+        </p>
+    </div>
+</div>
+
+<div class="row m-t-20">
+    <div class="col-md-12">
+        <p>
+        <h4>3. BEHAVIOR</h4>
+        </p>
+    </div>
+</div>
+<div class="row m-t-10">
+    <div class="col-md-4">
+        <ul style="list-style-image: url('{{asset('assets/images/bullet.png')}}');">
+            <li style="margin-top: 10px;">
+                <p><b>SATU</b></p>
+                <p>
+                    <b>Satu ucapan dan tindakan:</b>
+                    <br>
+                    Senantiasa menunjukkan perilaku konsisten antara ucapan dan tindakan, disiplin,
+                    dan memenuhi komitmen.
+                </p>
+                <p>
+                    <b>Satu arah dan tujuan:</b>
+                    <br>
+                    Senantiasa mengacu pada arah dan tujuan perusahaan dalam melaksanakan tugas
+                    dan fungsinya.
+                </p>
+                <p>
+                    <b>Satu Jiwa:</b>
+                    <br>
+                    Menunjukkan loyalitas, solidaritas, dan semangat kerja tinggi yang dilandaskan nilainilai luhur sebagai bagian dari pengabdian tulus kepada perusahaan, negara, dan
+                    Ilahi.
+                </p>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <ul style="list-style-image: url('{{asset('assets/images/bullet.png')}}');">
+            <li style="margin-top: 10px;">
+                <p><b>MAJU</b></p>
+                <p>
+                    <b>Belajar dan Berkembang:</b>
+                    <br>
+                    Menunjukkan inisiatif untuk meningkatkan keahlian dan potensi dirinya serta orang
+                    lain.
+                </p>
+                <p>
+                    <b>Gigih dan Gesit:</b>
+                    <br>
+                    Menunjukkan semangat kerja yang tinggi, cepat beradaptasi, proaktif, memberikan
+                    respon yang cepat dan tepat, serta pantang menyerah.
+                </p>
+                <p>
+                    <b>Kreatif dan Inovatif:</b>
+                    <br>
+                    Mampu menghasilkan ide-ide/gagasan baru, cara baru, dan berani mengambil
+                    terobosan & inovatif serta menjadi pelopor dalam aplikasinya untuk keberlangsungan
+                    Perusahaan.
+                </p>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <ul style="list-style-image: url('{{asset('assets/images/bullet.png')}}');">
+            <li style="margin-top: 10px;">
+                <p><b>ANDAL</b></p>
+                <p>
+                    <b>Jujur dan Berani:</b>
+                    <br>
+                    Dapat dipercaya dan berani mengambil risiko demi tercapainya tujuan Perusahaan.
+                </p>
+                <p>
+                    <b>Peduli & Kompeten:</b>
+                    <br>
+                    Memiliki kepekaan dan kecakapan untuk menjadi pelopor dalam mengubah
+                    lingkungan dan kondisi perusahaan ke arah yang lebih baik.
+                </p>
+                <p>
+                    <b>Berwawasan Sosial dan Bisnis:</b>
+                    <br>
+                    Memahami cara-cara menempatkan diri dan mengambil tindakan yang tepat dalam
+                    lingkungan sosial dan berorientasi keberlanjutan bisnis perusahaan.
+                </p>
+            </li>
+        </ul>
+    </div>
+</div>

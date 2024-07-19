@@ -1,0 +1,35 @@
+server {
+    listen 80;   # We're deliberately leaving this as-is to avoid conflict at the moment
+    root /var/www/vendor/public;
+    index index.php index.html index.htm;
+    server_name localhost;
+
+        location @rewrite {
+            rewrite ^/(.*)$ /index.php?_url=/$1;
+        }
+
+    location / {
+        #try_files $uri $uri/ /index.html;
+        try_files $uri $uri/ @rewrite;
+    }
+
+    location ~ \.php$ {
+        fastcgi_split_path_info ^(.+\.php)(/.+)$;
+        #fastcgi_pass unix:/var/run/php5-fpm.sock;
+	fastcgi_pass unix:/var/run/php5.6-fpm.sock;
+        fastcgi_index index.php;
+        include fastcgi_params;
+    }
+
+    location /doc/ {
+        alias /usr/share/doc/;
+        autoindex on;
+        allow 127.0.0.1;
+        deny all;
+    }
+
+    location ~/\.ht {
+        deny all;
+    }
+
+}

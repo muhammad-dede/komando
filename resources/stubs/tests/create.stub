@@ -1,0 +1,5 @@
+public function testCreateOk()
+{
+    $this->visit(":url:")->see("create");
+}
+

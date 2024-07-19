@@ -1,0 +1,15 @@
+<?php
+
+use Illuminate\Foundation\Testing\Concerns\InteractsWithDatabase;
+use Illuminate\Foundation\Testing\Concerns\InteractsWithPages;
+use Illuminate\Foundation\Testing\DatabaseTransactions;
+
+class :CLASS_NAME: extends TestCase
+{
+    use DatabaseTransactions;
+    use InteractsWithDatabase;
+    use InteractsWithPages;
+    use TestHelper;
+
+:METHODS:
+}

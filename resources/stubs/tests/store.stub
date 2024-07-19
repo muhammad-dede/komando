@@ -1,0 +1,5 @@
+public function testStoreOk()
+{
+    $data = [];
+    $this->post(":url:", $data)->assertResponseStatus(302);
+}

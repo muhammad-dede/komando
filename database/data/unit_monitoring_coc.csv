@@ -1,0 +1,119 @@
+﻿ORGEH;COMPANY_CODE;NAMA_UNIT;PARENT;TEXT PARENT;TARGET_REALISASI_COC
+17500181;1000;Divisi Transformasi Korporat dan CEO Office;10029326;SEKPER;95
+17500181;1000;Divisi Manajemen Stakeholder dan BOD Support;10029326;SEKPER;95
+10073751;1000;Divisi Komunikasi Korporat dan TJSL;10029326;SEKPER;95
+10074432;1000;Divisi Strategi Audit dan Konsultasi;10029325;SPI;95
+10029835;1000;Divisi Audit Investigasi;10029325;SPI;95
+17500007;1000;Divisi Audit Konstruksi, Pembangkitan, dan EBT;10029325;SPI;95
+10096078;1000;Divisi Audit Transmisi dan Distribusi;10029325;SPI;95
+10074163;1000;Divisi Audit Niaga, Teknologi Informasi, dan Enabler;10029325;SPI;95
+17403270;1000;Divisi Infrastruktur, Jaminan Kualitas, dan Pelaporan Manajemen Risiko;17403269;SAT MRO;95
+17403271;1000;Divisi Manajemen Risiko Konstruksi, Pembangkitan, dan EBT;17403269;SAT MRO;95
+10096275;1000;Divisi Manajemen Risiko Transmisi dan Distribusi;17403269;SAT MRO;95
+10096290;1000;Divisi Manajemen Risiko Strategis, Keuangan, dan Human Capital;17403269;SAT MRO;95
+10094026;1000;Divisi Manajemen Digital;10095974;SAT DTI;95
+10073855;1000;Divisi Sistem dan Teknologi Informasi;10095974;SAT DTI;95
+10090282;1000;Divisi Perencanaan Strategis Korporat;10073752;DIT REN;95
+10095973;1000;Divisi Pengembangan Bisnis Korporat dan Investasi;10073752;DIT REN;95
+10073783;1000;Divisi Manajemen Portofolio;10073752;DIT REN;95
+10029328;1000;Divisi Pengendalian Kinerja Korporat;10073752;DIT REN;95
+10094000;1000;Divisi Enjiniring dan Perencanaan Pengadaan;10085727;DIT MPRO;95
+10094001;1000;Divisi Aneka Energi Baru Terbarukan;10085727;DIT MPRO;95
+17409242;1000;Divisi Panas Bumi;10085727;DIT MPRO;95
+10073777;1000;Divisi Manajemen Rantai Pasok;10085727;DIT MPRO;95
+17409262;1000;Divisi Pengadaan Transmisi, Gardu Induk dan Material Terpusat;10085727;DIT MPRO;95
+10094002;1000;Divisi Pengadaan Pembangkit dan IPP;10085727;DIT MPRO;95
+10093976;1000;Divisi Konstruksi Sumatera, Kalimantan dan Sulawesi;10085727;DIT MPRO;95
+10094003;1000;Divisi Konstruksi Jawa, Madura, Bali, Nusa Tenggara, Maluku dan Papua;10085727;DIT MPRO;95
+10073778;1000;Divisi Project Management Office;10085727;DIT MPRO;95
+10096095;1000;Divisi Perencanaan Strategis Pembangkitan;10073756;DIT MKIT;95
+10096099;1000;Divisi Operasi Pembangkitan dan Independent Power Producer;10073756;DIT MKIT;95
+10096105;1000;Divisi Pengendalian Pembangkitan dan Independent Power Producer;10073756;DIT MKIT;95
+10096114;1000;Divisi Manajemen Aset, Enjiniring dan Sistem Manajemen Terintegrasi;10073757;DIT TRANS;95
+10073779;1000;Divisi Perencanan Sistem Ketenagalistrikan;10073757;DIT TRANS;95
+10096113;1000;Divisi Transisi Energi dan Keberlanjutan;10073757;DIT TRANS;95
+10096112;1000;Divisi Operasi Sistem Ketenagalistrikan;10073757;DIT TRANS;95
+10096111;1000;Divisi Perencanaan Strategis Transmisi;10073757;DIT TRANS;95
+17403250;1000;Divisi Transmisi Sumatera, Jawa, Madura, dan Bali;10073757;DIT TRANS;95
+17403260;1000;Divisi Transmisi Kalimantan, Sulawesi, Maluku, Papua, dan Nusa Tenggara;10073757;DIT TRANS;95
+10096054;1000;Divisi Perencanaan Strategis Distribusi;10085737;DIT DIST;95
+17403251;1000;Divisi Operasi Distribusi Jawa, Madura, dan Bali;10085737;DIT DIST;95
+17403261;1000;Divisi Operasi Distribusi Sumatera dan Kalimantan;10085737;DIT DIST;95
+17403256;1000;Divisi Operasi Distribusi Sulawesi, Maluku, Papua, dan Nusa Tenggara;10085737;DIT DIST;95
+10096868;1000;DIVISI PENGEMBANGAN LISTRIK DESA;10085737;DIT DIST;95
+10096062;1000;Divisi Niaga dan Pemasaran;10093752;DIT RETAIL;95
+10094010;1000;Divisi Customer Experience dan Excellence Services;10093752;DIT RETAIL;95
+10094007;1000;Divisi Penjualan dan Pelayanan Pelanggan Enterprise;10093752;DIT RETAIL;95
+10094006;1000;Divisi Penjualan dan Pelayanan Pelanggan Retail;10093752;DIT RETAIL;95
+10094008;1000;Divisi Pengembangan Produk Niaga;10093752;DIT RETAIL;95
+10073850;1000;Divisi Keuangan Korporat;10073755;DIT KEU;95
+10073851;1000;Divisi Anggaran;10073755;DIT KEU;95
+10073852;1000;Divisi Perbendaharaan;10073755;DIT KEU;95
+10073853;1000;Divisi Akuntansi;10073755;DIT KEU;95
+17403275;1000;Divisi Manajemen Valuasi Aset;10073755;DIT KEU;95
+17403263;1000;Divisi Strategi Human Capital;10073754;DIT LHC;95
+17403264;1000;Divisi Pengembangan Talenta;10073754;DIT LHC;95
+17403265;1000;Divisi Pelayanan Human Capital;10073754;DIT LHC;95
+10073768;1000;Divisi Umum dan Aset Properti;10073754;DIT LHC;95
+10073769;1000;Divisi Keselamatan dan Kesehatan Kerja (K3), Keamanan, dan Lingkungan;10073754;DIT LHC;95
+17403266;1000;Divisi Korporasi dan Legal Business Partner;10029327;SDT HKK;95
+17403267;1000;Divisi Bantuan Hukum;10029327;SDT HKK;95
+17409230;1000;Divisi Regulasi dan Kebijakan;10029327;SDT HKK;95
+10089540;1000;Divisi Kepatuhan;10029327;SDT HKK;95
+17403274;1000;Divisi Legal Aset Properti dan Perizinan Terintegrasi;10029327;SDT HKK;95
+15500000;5300;Unit Induk Distribusi (UID) Jawa Barat;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15300000;5200;Unit Induk Distribusi (UID) Jawa Tengah dan D.I. Yogyakarta;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15400000;5100;Unit Induk Distribusi (UID) Jawa Timur;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15001006;5500;Unit Induk Distribusi (UID) Bali;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15000754;5400;Unit Induk Distribusi (UID) Jakarta Raya;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15730001;6100;Unit Induk Distribusi (UID) Aceh;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15750001;6200;Unit Induk Distribusi (UID) Sumatera Utara;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15600001;6300;Unit Induk Distribusi (UID) Sumatera Barat;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15615001;6400;Unit Induk Distribusi (UID) Riau dan Kepulauan Riau;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15678001;6500;Unit Induk Distribusi (UID) Sumatera Selatan, Jambi, dan Bengkulu;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15900172;6800;Unit Induk Distribusi (UID) Kalimantan Barat;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15915000;7100;Unit Induk Distribusi (UID) Kalimantan Selatan dan Kalimantan Tengah;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15937887;7200;Unit Induk Distribusi (UID) Kalimantan Timur dan Kalimantan Utara;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15820000;7300;Unit Induk Distribusi (UID) Sulawesi Utara, Sulawesi Tengah, dan Gorontalo;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15845000;7400;Unit Induk Distribusi (UID) Sulawesi Selatan, Sulawesi Tenggara, dan Sulawesi Barat;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15965455;7500;Unit Induk Wilayah (UIW) Maluku dan Maluku Utara;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15969181;7600;Unit Induk Wilayah (UIW) Papua dan Papua Barat;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15981000;7700;Unit Induk Wilayah (UIW) Nusa Tenggara Barat;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15991000;7800;Unit Induk Wilayah (UIW) Nusa Tenggara Timur;15000000;PT PLN (PERSERO) / ORG-BARU;95
+16130781;2200;Unit Induk Pembangkitan (UIK) Tanjung Jati B;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15630001;3200;Unit Induk Penyaluran Dan Pusat Pengatur Beban (UIP3B) Sumatera;15000000;PT PLN (PERSERO) / ORG-BARU;95
+15645001;6600;Unit Induk Wilayah (UIW) Bangka Belitung;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10057710;6700;Unit Induk Distribusi (UID) Lampung;15000000;PT PLN (PERSERO) / ORG-BARU;95
+16109600;8400;Pusat Pemeliharaan Ketenagalistrikan (PUSHARLIS);15000000;PT PLN (PERSERO) / ORG-BARU;95
+16113600;8500;Pusat Manajemen Proyek (PUSMANPRO);15000000;PT PLN (PERSERO) / ORG-BARU;95
+16100000;8600;Pusat Sertifikasi (PUSERTIF);15000000;PT PLN (PERSERO) / ORG-BARU;95
+16104500;8100;Pusat Penelitian Dan Pengembangan Ketenagalistrikan (PUSLITBANG);15000000;PT PLN (PERSERO) / ORG-BARU;95
+16130181;8200;Pusat Pendidikan Dan Pelatihan (PUSDIKLAT);15000000;PT PLN (PERSERO) / ORG-BARU;95
+10074925;5600;Unit Induk Distribusi (UID) Banten;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10074902;3300;Unit Induk Pusat Pengatur Beban (UIP2B) Jawa, Madura, dan Bali;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10073976;3400;Unit Induk Transmisi (UIT) Jawa Bagian Barat;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10073975;3500;Unit Induk Transmisi (UIT) Jawa Bagian Tengah;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10073977;3600;Unit Induk Transmisi (UIT) Jawa Bagian Timur dan Bali;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10077226;4B00;Unit Induk Pembangunan (UIP) Sumatera Bagian Utara;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10077233;4Q00;Unit Induk Pembangunan (UIP) Sumatera Bagian Tengah;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10077152;4C00;Unit Induk Pembangunan (UIP) Sumatera Bagian Selatan;15000000;PT PLN (PERSERO) / ORG-BARU;95
+17300075;4R00;Unit Induk Pembangunan (UIP) Kalimantan Bagian Barat;15000000;PT PLN (PERSERO) / ORG-BARU;95
+17300048;4J00;Unit Induk Pembangunan (UIP) Kalimantan Bagian TImur;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10076800;4M00;Unit Induk Pembangunan (UIP) Sulawesi;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10077272;4E00;Unit Induk Pembangunan (UIP) Jawa Bagian Barat;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10076634;4P00;Unit Induk Pembangunan (UIP) Jawa Bagian Tengah;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10076635;4G00;Unit Induk Pembangunan (UIP) Jawa Bagian Timur dan Bali;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10077475;4K00;Unit Induk Pembangunan (UIP) Nusa Tenggara;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10076755;4N00;Unit Induk Pembangunan (UIP) Maluku dan Papua;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10086276;2500;Unit Induk Penyaluran Dan Pusat Pengatur Beban (UIP3B) Sulawesi;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10086275;2400;Unit Induk Penyaluran Dan Pusat Pengatur Beban (UIP3B) Kalimantan;15000000;PT PLN (PERSERO) / ORG-BARU;95
+10096380;1200;PT PLN Indonesia Power;10096379;SUB HOLDING;95
+10096381;1200;PT PLN Nusantara Power;10096379;SUB HOLDING;95
+10096382;1200;PT PLN Indonesia Comnets Plus;10096379;SUB HOLDING;95
+10096383;1200;PT PLN Energi Primer Indonesia;10096379;SUB HOLDING;95
+10095429;1300;PT Energi Management Indonesia;10091860;ANAK PERUSAHAAN;95
+17408000;1300;PT Haleyora Power;10091860;ANAK PERUSAHAAN;95
+10095320;1300;PT Mandau Cipta Tenaga Nusantara;10091860;ANAK PERUSAHAAN;95
+10091862;1300;PT PLN Batam;10091860;ANAK PERUSAHAAN;95
+17409295;1300;PT PLN Enjiniring;10091860;ANAK PERUSAHAAN;95
+17499451;1300;PT PLN Tarakan;10091860;ANAK PERUSAHAAN;95

@@ -1,0 +1,5 @@
+public function testEditOk()
+{
+    $id = 1;
+    $this->visit(":url:")->see("edit $id");
+}

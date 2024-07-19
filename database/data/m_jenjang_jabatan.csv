@@ -1,0 +1,16 @@
+﻿id;main_group;group;sub_group;description
+1;04;Struktural;00;Manajemen Atas Khusus
+2;04;Struktural;01;Manajemen Atas
+3;04;Struktural;02;Manajemen Menengah
+4;04;Struktural;03;Manajemen Dasar
+5;04;Struktural;04;Supervisory Atas
+6;04;Struktural;05;Supervisory Dasar
+7;05;Fungsional;01;Fungsional I
+8;05;Fungsional;02;Fungsional II
+9;05;Fungsional;03;Fungsional III
+10;05;Fungsional;04;Fungsional IV
+11;05;Fungsional;05;Fungsional V
+12;05;Fungsional;06;Fungsional VI
+13;06;Kepakaran;01;Senior Expert
+14;06;Kepakaran;02;Expert
+15;06;Kepakaran;03;Junior Expert
